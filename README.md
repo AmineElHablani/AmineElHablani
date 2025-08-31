@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🎯 Goals: Build impactful AI solutions, contribute to innovative projects, and continuously grow as a data and AI professional.
+Goals: Improve my skills, work on AI projects, and learn new technologies.  
 -->
 
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ I'm working as a Data Scientist.  <br>📚 I'm currently an AI & Data Science Engineering student.  <br>🎯 Goals: Improve my skills, work on AI projects, and learn new technologies.  <br>💡 Ask me about: anything related to technology, data, or AI.  <br>🎲 In my free time: Learning new tools and exploring tech.</p>
+<p align="left">✨ I'm working as a Data Scientist.  <br>📚 I'm currently an AI & Data Science Engineering student.  <br>🎯 Goals: Build impactful AI solutions, contribute to innovative projects, and continuously grow as a data and AI professional.  <br>💡 Ask me about: anything related to technology, data, or AI.  <br>🎲 In my free time: Learning new tools and exploring tech.</p>
 
 ###
 
