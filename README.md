@@ -30,7 +30,11 @@ Goals: Improve my skills, work on AI projects, and learn new technologies.
 
 ###
 
-<p align="left">✨ I'm working as a Data Scientist.  <br>📚 I'm currently an AI & Data Science Engineering student.  <br>🎯 Goals: Build impactful AI solutions, contribute to innovative projects, and continuously grow as a data and AI professional.  <br>💡 Ask me about: anything related to data, or AI.  <br>🎲 In my free time: Exploring new technologies, building small projects, and enhancing my AI & data skills.</p>
+<p align="left">
+Data Scientist | AI & Data Science Engineering Student <br>
+Focused on machine learning, deep learning, computer vision, and data-driven problem solving. <br>
+Interested in developing impactful AI solutions and continuously expanding knowledge through research and hands-on projects.
+</p>
 
 ###
 
